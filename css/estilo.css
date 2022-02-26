@@ -1,0 +1,11 @@
+table{
+    border: 1px brown dashed;
+}
+td{
+    border: 1px brown dashed;
+    width: 30px;
+    background-color: crimson;
+}
+td:hover{
+    background-color: blueviolet;
+}
